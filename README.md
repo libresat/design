@@ -8,8 +8,7 @@ Design of the Free/Libre and Open Source Satellite Development and Control Platf
 [![Forum](https://img.shields.io/badge/Forum-forum.libresat.space-blue.svg)](https://forum.libresat.space/forum)
 [![Chat](https://img.shields.io/badge/Chat-chat.libresat.space-blue.svg)](https://chat.libresat.space)
 
-[![Code License AGPL-3.0](https://img.shields.io/badge/Code%20License-AGPL--3.0-brightgreen.svg)](https://www.gnu.org/licenses/agpl-3.0.en.html)
-[![Media License CC-BY-SA-4.0](https://img.shields.io/badge/Media%20License-CC--BY--SA--4.0-brightgreen.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+![LibreSat Logo](packages/logos/logo--no-padding.png)
 
 [![GitLab](https://img.shields.io/badge/GitLab-%40libresat-fc6d26.svg?logo=gitlab)](https://gitlab.com/libresat)
 [![GitHub](https://img.shields.io/badge/GitHub-%40libresat-181717.svg?logo=github&logoColor=ffffff)](https://github.com/libresat)
@@ -18,6 +17,9 @@ Design of the Free/Libre and Open Source Satellite Development and Control Platf
 [![Twitter](https://img.shields.io/badge/Twitter-%40libresat-1DA1F2.svg?logo=twitter&style=social)](https://twitter.com/libresat)
 [![Reddit](https://img.shields.io/badge/reddit-r%2Flibresat-FF4500.svg?logo=reddit&style=social)](https://www.reddit.com/r/libresat/)
 [![Instagram](https://img.shields.io/badge/Instagram-%40libresat-E4405F.svg?logo=instagram&style=social)](https://www.instagram.com/libresat/)
+
+[![Code License AGPL-3.0](https://img.shields.io/badge/Code%20License-AGPL--3.0-brightgreen.svg)](https://www.gnu.org/licenses/agpl-3.0.en.html)
+[![Media License CC-BY-SA-4.0](https://img.shields.io/badge/Media%20License-CC--BY--SA--4.0-brightgreen.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ---
 
